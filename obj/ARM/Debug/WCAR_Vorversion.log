@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.178.21'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  WCAR_Vorversion.vcxproj -> C:\Users\Thomas\Repos\WCAR_Vorversion\bin\ARM\Debug\WCAR_Vorversion.out
