@@ -1,8 +1,11 @@
 ﻿  Validating sources
-  Copying sources remotely to '192.168.178.21'
+  Copying sources remotely to '192.168.178.22'
   Validating architecture
   Starting remote build
   Compiling sources:
   main.cpp
+C:\Users\Thomas\Repos\WCAR_Vorversion\main.cpp(100,6): warning : variable ‘res’ set but not used [-Wunused-but-set-variable]
+C:\Users\Thomas\Repos\WCAR_Vorversion\main.cpp(100,6): warning :   int res[AnzahlByteRead];
+C:\Users\Thomas\Repos\WCAR_Vorversion\main.cpp(100,6): warning :       ^~~
   Linking objects
   WCAR_Vorversion.vcxproj -> C:\Users\Thomas\Repos\WCAR_Vorversion\bin\ARM\Debug\WCAR_Vorversion.out
