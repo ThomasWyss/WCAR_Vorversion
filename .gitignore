@@ -7,7 +7,7 @@
 *.userosscache
 *.sln.docstates
 *.tlog
-
+WCAR_Vorversion/**/*.suo
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
